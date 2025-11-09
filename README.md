@@ -1,6 +1,8 @@
 # LogoHistoriasDeVidaConectadas
 
 Logo Historias De Vida Conectadas en vectores y animación 3D.
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCagqn-jIlH0XoDfGrPNINbQ?label=Hisotrias%20de%20Vidas%20Conectadas)
+
 
 <image src="/LogoHDVC%20v0.1.png" alt="1º render" width="100%">
 <image src="/LogoHDVC%20v0.2.png" alt="2º render" width="100%">
