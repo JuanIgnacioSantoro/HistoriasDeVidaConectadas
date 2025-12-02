@@ -1,7 +1,6 @@
 .Foto {
     height: 2250px;
     width: 4000px;
-    /*background-image: url("https://raw.githubusercontent.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/refs/heads/main/Foto%20para%20portada%20-%20Ejemplo%2016-9.jpg");*/
     background-image: url("./Foto%20para%20portada%20-%20Ejemplo%2016-9.jpg");
     background-size: cover;
 }
