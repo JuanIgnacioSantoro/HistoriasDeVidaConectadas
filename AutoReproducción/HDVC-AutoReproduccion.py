@@ -4,9 +4,12 @@ import time
 pa.hotkey('win', 'r')
 pa.write('chrome.exe https://youtu.be/gnNjMqZgnO4?t=600', interval=0)
 pa.press('enter', interval=0.1)
+time.sleep(3)
+pa.press('f', interval=0.1)
 pa.hotkey('altleft', 'f5')
 time.sleep(10)
 pa.hotkey('altleft', 'f6')
+pa.press('f', interval=0.1)
 pa.moveTo(1900, 20)
 pa.click(button='left')
 
