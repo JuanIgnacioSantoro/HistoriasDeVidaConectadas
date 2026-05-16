@@ -1,30 +1,32 @@
 .Foto {
-    height: 2250px;
-    width: 4000px;
+    /*height: 2250px;*/
+    /*width: 4000px;*/
+    width: 100vw;
+    height: 100vh;
     background-image: url("./Foto%20para%20portada%20-%20Ejemplo%2016-9.jpg");
     background-size: cover;
 }
 
 .Gradiente {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 100%);
-    height: 2250px;
-    width: 4000px;
+    width: 100vw;
+    height: 100vh;
 }
 
 .Texto {
-    height: 900px;
-    width: 3000px;
+    height: 50vh;
+    width: 75vw;
     display: flex;
     flex-direction: column;
-    margin-left: 900px;;
+    margin-left: 50vh;
 }
 
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 150pt;
+    font-size: 75pt;
     color: white;
     text-align: center;
-    padding-left: 1000px;
+    padding-left: 60vh;
 }
 
 span {
@@ -33,16 +35,16 @@ span {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 150pt;
+    font-size: 75pt;
     color: white;
     text-align: center;
-    padding-left: 1000px;
-    margin-top: -20px;
+    padding-left: 50vw;
+    margin-top: 10vh;
 }
 
 img {
-    height: 250px;
-    padding-left: 3750px;
-    margin-top: 1100px;
-    display: none;
+    height: 10vw;
+    padding-left: 90vw;
+    margin-top: 95vh;
+    /*display: none;*/
 }
