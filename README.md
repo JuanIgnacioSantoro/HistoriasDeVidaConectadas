@@ -6,12 +6,15 @@ Logo Historias De Vida Conectadas en vectores y animación 3D.
 ## Inicio
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%201º%20logo.jpg?raw=true" alt="1º idea" width="100%">
 <h2>Temporada 1:</h2>
-<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%201%20Marca%20de%20agua.png?raw=true" alt="Temporada 1 Marca de agua" width="100%">
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%201.png?raw=true" alt="Temporada 1" width="100%">
-<image src=https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Animado%20v1%20Fondo%20negro.gif?raw=true  alt="Temporada 1 Logo animado" width="100%">
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%201%20Marca%20de%20agua.png?raw=true" alt="Temporada 1 Marca de agua" width="100%">
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Animado%20v1%20Fondo%20negro.gif?raw=true" alt="Temporada 1 Logo animado" width="100%">
 <h2>Temporada 2:</h2>
-<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%202%20Actual.jpg?raw=true" alt="Temporada 2 actual" width="100%">
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%202%2.png?raw=true" alt="Temporada 2 actual" width="100%">
 <h2>Temporada 3:</h2>
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%203%20Actual.png?raw=true" alt="Temporada 3" width="100%">
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20Temporada%203%20Transparencia%20Sombra%20Actual.png?raw=true" alt="Temporada 3" width="100%">
+<h2>Pruebas:</h2>
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20v0.10.png?raw=true" alt="1º render" width="100%">
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20v0.20.png?raw=true" alt="2º render" width="100%">
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/Logos/LogoHDVC%20v0.30.png?raw=true" alt="3º render" width="100%">
