@@ -1,3 +1,8 @@
+@media print {
+    .Foto {
+        height: 20cm;
+    }
+}
 .Foto {
     /*height: 2250px;*/
     /*width: 4000px;*/
@@ -23,7 +28,7 @@
 
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 75pt;
+    font-size: 10vh;
     color: white;
     text-align: center;
     padding-left: 60vh;
@@ -35,16 +40,16 @@ span {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 75pt;
+    font-size: 10vh;
     color: white;
     text-align: center;
-    padding-left: 50vw;
+    padding-left: 25vw;
     margin-top: 10vh;
 }
 
-img {
-    height: 10vw;
-    padding-left: 90vw;
-    margin-top: 95vh;
+.Logo {
+    height: 5vw;
+    margin-left: 94vw;
+    margin-top: 37vh;
     /*display: none;*/
 }
